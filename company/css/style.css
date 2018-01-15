@@ -107,7 +107,7 @@
 .m-list1 .slick-dots{text-align: center;}
 .m-list1 .slick-dots li{display: inline-block;margin: 0 11px;}
 .m-list1 .slick-dots button{cursor: pointer;display: block;width: 80px;height: 6px;background: #b4b3b0;border: none;font-size: 0;}
-.m-list1 .slick-dots .slick-active button{background: #cc0000;}
+.m-list1 .slick-dots .slick-active button{background: #ffcc00;}
 
 
 
@@ -413,7 +413,7 @@
 .soft_item img {
     display: inline-block;
     width: 420px;
-    height: 280px;
+    height: 300px;
 }
 .soft_item  h3{font-size: 20px;  margin: 0px; line-height: 40px; margin-left: 0px; text-align: center }
 

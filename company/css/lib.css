@@ -2,7 +2,7 @@
 /*-----------------[初始化]--------------*/
 body{color: #333;font-size: 13px;line-height: 1.5;font-family:"arial","sans-serif","微软雅黑","Microsoft Yahei";}
 a{color: #444;}
-a:hover{color: #ffcc00;}
+a:hover{color: #cc0000;}
 img{max-width: 100%;
     transition: .3s;
     -ms-transition: .3s;
@@ -157,8 +157,8 @@ body{position: relative;}
     transition:.3s;
 }
 .nav .v1:hover,.nav li.on .v1{
-    color: #ffcc00;
-    border-color: #ffcc00;
+    color: #cc0000;
+    border-color: #cc0000;
 }
 
 /*******************************
@@ -365,7 +365,7 @@ body{position: relative;}
     margin-bottom: 14px;
 }
 .f-top dl dd a{color: inherit;}
-.f-top dl dd a:hover{color: #ffcc00;text-decoration: underline;}
+.f-top dl dd a:hover{color: #cc0000;text-decoration: underline;}
 .f-top .f-cont{margin: 0 36px 0 50px;}
 .f-top .f-cont dd i{
     display: inline-block;
@@ -478,7 +478,7 @@ body{position: relative;}
     color: #ddd;
     line-height: 46px;
 }
-.ul-list1 a:hover{color: #ffcc00;}
+.ul-list1 a:hover{color: #cc0000;}
 .ul-list1 i{
     display: inline-block;
     vertical-align: middle;
@@ -1093,7 +1093,7 @@ body{position: relative;}
     -webkit-transition:.3s;
     transition:.3s;
 }
-.ul-list5 li:hover,.ul-list5 li.on{border-color: #ffcc00;}
+.ul-list5 li:hover,.ul-list5 li.on{border-color: #cc0000;}
 .ul-list5 li:after{
     content: "";
     display: block;
