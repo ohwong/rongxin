@@ -99,7 +99,7 @@
 	.Banner_sec .Center {width: 100%; padding: 0px 2%; }
 	.Banner_sec .bannerside { top: 144px; }
 	.Banner_sec .leftside h3 { font-size: 32px; }
-	.Banner_sec .rightside { width: 60%; margin-top: 25%; margin-right: 5%}
+	.Banner_sec .rightside { width: 55%; margin-top: 10%; margin-right: 4%}
 	.Banner_sec .rightside .Slider { width: 100%; }
 	.Banner_sec .rightside .Slider .text { padding: 25px 10px 21px 10px; }
 	.Banner_sec .rightside .Slider .text .Icon { width: 45%; }
@@ -381,8 +381,8 @@
        margin: 20 60px;;
     }
     .soft_item img {
-        width: 320px;
-        height: 160px;
+        width: 100%;
+        height: 50%;
     }
     .soft_item  h3{font-size: 18px; line-height: 40px; margin-left: 0px; margin: 0px; text-align: center}
 
